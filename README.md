@@ -15,19 +15,19 @@ Key Insight Focus: Financial performance tracking, temporal trend analysis, and 
 ### 📊 Dashboard Key Metrics and Features
 The dashboard is designed for high-level monitoring and deep-dive analysis, primarily focused on Orders, Revenue, and Profit.
 
-##### 1. Key Performance Indicators (KPIs)
+#### 1. Key Performance Indicators (KPIs)
 The top row presents crucial aggregated metrics, with a surrounding area chart showing historical trends for context:
 1. Total Orders by Month: The aggregate number of transactions over the observed period.
 2. Total Revenue by Month: The total sales value generated.
 3. Total Profit by Month: The total gross profit achieved.
 
-##### 2. Analytical Visualizations
+#### 2. Analytical Visualizations
 Orders by Product Category (Bar Chart): Ranks product categories (Toys, Art & Crafts, Games, Sports & Outdoors, Electronics, etc.) by the total number of orders. This highlights which product lines are driving the highest transaction volume.
 
 1. Revenue by Month (Line Chart): A detailed time-series analysis showing the fluctuation of revenue over the full historical period (e.g., Jan 2022 to Jul 2023). This is essential for identifying seasonality, growth phases, or decline periods.
 2. Revenue (M) by Order Month (Bar Chart): A monthly breakdown of total revenue, typically used to show performance degradation or success in recent months.
 
-##### 3. Interactive Filtering
+#### 3. Interactive Filtering
 Store Location Slicer: A crucial filter that allows users to instantly segment all dashboard visuals by the operating environment:
 1. Airport
 2. Commercial
